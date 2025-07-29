@@ -1,13 +1,1 @@
- Hi! I'm Zoya. I'm a first-year Computer Science student at Air University, eager to explore and grow my knowledge in the ever-evolving world of technology.
- I am eager to explore new opportunities, courses, certifications, and internships. 
- 
--  I’m interested in Learning new skills and expanding my knowledge in CS and technology.
--  I’m currently learning C/C++,html,CSS,javascript.
--  I’m looking forward to enhance my understanding of data structures and algorithms and building connections in the tech industry.
--  How to reach me:
-- Email: zoyamalik7104@gmail.com
-
-<!---
-ZoyaAzad/ZoyaAzad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm Zoya — a 2nd-year Computer Science student at Air University with a passion for building impactful and creative tech projects. I have hands-on experience with C++, HTML, CSS, and JavaScript, and I'm currently focused on advancing my skills in .NET development, an area I have a strong interest in. I enjoy exploring the intersection of technology and creativity, whether it's through web development, mobile apps, or experimental ideas like AI vs Human Intelligence. I'm always on the lookout for new learning opportunities, certifications, internships, and meaningful collaborations that help me grow as a developer. Feel free to reach out at zoyamalik7104@gmail.com — I'm always open to connect and learn.
